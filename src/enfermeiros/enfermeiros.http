@@ -1,0 +1,21 @@
+### LIST
+
+#GET ENFERmEIRO
+GET http://localhost:3000/enfermeiros
+
+### CREATE
+POST http://localhost:3000/enfermeiros
+Content-Type: application/json
+
+{
+  "name": "Enfermeiro",
+  "email": "mail@mail.com",
+  "password": "123456"
+}
+
+
+### UPDATE
+PATCH http://localhost:3000/enfermeiros
+
+### DELETE
+DELETE http://localhost:3000/enfermeiros
