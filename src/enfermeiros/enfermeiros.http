@@ -1,10 +1,10 @@
 ### LIST
 
 #GET ENFERmEIRO
-GET http://localhost:3000/enfermeiros
+GET http://localhost:3030/enfermeiros/
 
 ### CREATE
-POST http://localhost:3000/enfermeiros
+POST http://localhost:3030/enfermeiros
 Content-Type: application/json
 
 {
