@@ -1,4 +1,4 @@
-import { IsEmail, IsString, isString, isStrongPassword } from 'class-validator';
+import { IsEmail, IsString } from 'class-validator';
 
 export class CreateEnfermeiroDto {
   @IsString()

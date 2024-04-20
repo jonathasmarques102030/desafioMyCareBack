@@ -1,7 +1,7 @@
 ### LIST
 
 #GET ENFERmEIRO
-GET http://localhost:3030/enfermeiros/
+GET http://localhost:3030/enfermeiros/enf_vjE9Bfu_Ko3Z-oYMP6V81
 
 ### CREATE
 POST http://localhost:3030/enfermeiros
